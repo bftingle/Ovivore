@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 44897605
+    locked: 0
+  - name: Eggs
+    uniqueID: 3705354363
+    locked: 0
+  - name: Other Players
+    uniqueID: 4010151295
+    locked: 0
+  - name: Player
+    uniqueID: 2331087409
+    locked: 0
+  - name: Cover
+    uniqueID: 2971949095
+    locked: 0
